@@ -14,7 +14,7 @@ The data I chose was from the Washington Post and spanned from 2013 through 4/30
 
 ### Data Source: https://mappingpoliceviolence.us/s/MPVDatasetDownload.xlsx
 
-### Data Description: 2023 Police Violence Report
+### Data Description: [2023 Police Violence Report](https://policeviolencereport.org/2023/)
 
 ## DATA QUESTIONS
 - Of the cases where lethal force was used, what percentage was a response to a violent crime?
